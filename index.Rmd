@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "ECN 310 Class Resources"
+author: "Professor Kristy Buzard, Ryan Seely"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
